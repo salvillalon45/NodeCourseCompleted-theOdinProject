@@ -5,7 +5,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs">
-    <img alt="Odin Banner" src="./banner.PNG" width="600" />
+    <img alt="Odin Banner" src="./node_completed.PNG" width="600" />
   </a>
 </p>
 

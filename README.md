@@ -1,5 +1,5 @@
 <h1 align="center">
-[The Odin Project: Javascript] - List of Completed Projects
+[The Odin Project: Node] - List of Completed Projects
 </h1>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->

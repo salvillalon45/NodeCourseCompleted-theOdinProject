@@ -1,6 +1,4 @@
-<h1 align="center">
-[The Odin Project: Node] - List of Completed Projects
-</h1>
+<h1 align="center">List of Completed Projects in Node Course</h1>
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
@@ -37,39 +35,45 @@ The projects were more focused on the Backend. I challenged myself to practice m
 
 ## The projects:
 
-1.  [The Odin Project: Node] - Basic Informational Site
+### Basic Informational Site
+- [Code](https://github.com/salvillalon45/theOdinProject-BasicInformationalSite)
+-   [Live Site](https://theodinproject-basicinformationalsite.salvadorvillalo.repl.co/index.html)
+    
+---
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-BasicInformationalSite)
-    -   [Live Site](https://theodinproject-basicinformationalsite.salvadorvillalo.repl.co/index.html)
+### Mini Message Board
+-   [Code](https://github.com/salvillalon45/theOdinProject-MiniMessageBoard)
+-   [Live Site](https://lit-shelf-92540.herokuapp.com/)
 
-2.  [The Odin Project: Node] - Mini Message Board
+---
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-MiniMessageBoard)
-    -   [Live Site](https://lit-shelf-92540.herokuapp.com/)
+### Inventory Application
+-   [Code](https://github.com/salvillalon45/theOdinProject-InventoryApplication)
+-  [Live Site](https://sals-videogamestore.herokuapp.com/)
 
-3.  [The Odin Project: Node] - Inventory Application
+---
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-InventoryApplication)
-    -   [Live Site](https://sals-videogamestore.herokuapp.com/)
+### Members Only
+-   [Code](https://github.com/salvillalon45/theOdinProject-MembersOnly)
+-   [Live Site](https://yeagerists.herokuapp.com/)
 
-4.  [The Odin Project: Node] - Members Only
+---
 
-    -   [Code](https://github.com/salvillalon45/theOdinProject-MembersOnly)
-    -   [Live Site](https://yeagerists.herokuapp.com/)
+### Blog API
+- Blog User View
+  -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
+  -   [User View](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
+-  Blog Admin View 
+  -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
+  -   [Admin View](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
+- Blog API   
+  -   [Code](https://github.com/salvillalon45/theOdinProject-BlogApi)
 
-5.  [The Odin Project: Node] - Blog API
-    - Blog User View
-       -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
-       -   [User View](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
-    -  Blog Admin View 
-       -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
-       -   [Admin View](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
-    - Blog API   
-    -   [Code](https://github.com/salvillalon45/theOdinProject-BlogApi)
+---
 
-6.  [The Odin Project: Node] - Odin Book
-    - Odin Book API
-       - [OdinBook API Code](https://github.com/salvillalon45/theOdinProject-OdinBookApi)
-    - Odin Book Client
-       -   [Code](https://github.com/salvillalon45/theOdinProject-OdinBookClient)
-       -   [Live Site](https://odin-book-client-sv.netlify.app/)
+### Odin Book
+- Odin Book API
+  - [OdinBook API Code](https://github.com/salvillalon45/theOdinProject-OdinBookApi)
+- Odin Book Client
+  -   [Code](https://github.com/salvillalon45/theOdinProject-OdinBookClient)
+  -   [Live Site](https://odin-book-client-sv.netlify.app/)

@@ -64,10 +64,10 @@ The projects were more focused on the Backend. I challenged myself to practice m
   -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
   -   [User View](https://github.com/salvillalon45/theOdinProject-BlogClientUser)
 -  Blog Admin View 
-  -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
-  -   [Admin View](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
+    -   [Code](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
+    -   [Admin View](https://github.com/salvillalon45/theOdinProject-BlogClientAdmin)
 - Blog API   
-  -   [Code](https://github.com/salvillalon45/theOdinProject-BlogApi)
+    -   [Code](https://github.com/salvillalon45/theOdinProject-BlogApi)
 
 ---
 
